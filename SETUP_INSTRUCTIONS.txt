@@ -1,0 +1,64 @@
+# React Blog Application Setup Instructions
+
+## 1. Run the application locally:
+To see your blog in action on your local machine, navigate to the `react-blog` directory and run:
+```bash
+npm start
+```
+This will open the application in your browser, usually at `http://localhost:3000`.
+
+## 2. Create new blog posts:
+*   All your blog posts are written in Markdown files.
+*   Create new `.md` files inside the `src/blogs` directory (e.g., `src/blogs/my-new-post.md`).
+*   Each Markdown file should start with "front matter" to define metadata like title, date, author, and description. For example:
+    ```markdown
+    ---
+    title: My New Awesome Post
+    date: 2026-01-03
+    author: Your Name
+    description: A brief summary of what this post is about.
+    ---
+
+    # My New Awesome Post
+
+    This is the content of your new blog post...
+    ```
+*   The `Home.js` component automatically discovers blog posts. You will need to manually update the `blogFiles` array in `src/components/Home.js` to include your new post's `slug`, `title`, `date`, `author`, and `description`. This is a limitation for static sites and would typically be automated with a build script or CMS in a more complex setup. The `slug` should match the filename (without `.md`).
+
+## 3. Deploy to GitHub Pages:
+**Important:** The `homepage` property in `package.json` should only be set right before you deploy, as it can cause issues with the local development server.
+
+1.  **Add `homepage` to `package.json`**: Before deploying, open `react-blog/package.json` and add a `homepage` property. It should look like this:
+    ```json
+    {
+      "name": "react-blog",
+      "version": "0.1.0",
+      "private": true,
+      "homepage": "https://<your-github-username>.github.io/<your-repo-name>",
+      "dependencies": { ... },
+      ...
+    }
+    ```
+    *   Replace `<your-github-username>` with your GitHub username.
+    *   Replace `<your-repo-name>` with the name of your GitHub repository.
+    *   **Example**: If your username is `octocat` and your repo is `my-blog`, the line should be `"homepage": "https://octocat.github.io/my-blog"`.
+
+2.  **Deploy**: Once the `homepage` is set correctly, run the deploy command:
+    ```bash
+    npm run deploy
+    ```
+    This command builds your app and pushes it to a `gh-pages` branch on GitHub. GitHub Pages will then serve your blog from that branch.
+
+## 4. Initial Git Commit:
+Before deploying, you should commit your changes to your Git repository.
+```bash
+git add .
+git commit -m "Initial setup of React blog app with GitHub Pages deployment"
+```
+Then, you can create a new repository on GitHub, and push your local repository to it:
+```bash
+git remote add origin <your-github-repo-url>
+git branch -M main
+git push -u origin main
+```
+After pushing to `main`, you can then run `npm run deploy` to publish to GitHub Pages.

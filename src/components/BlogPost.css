@@ -1,0 +1,19 @@
+.blog-post-container {
+  text-align: left;
+}
+
+.blog-post-container h1,
+.blog-post-container h2,
+.blog-post-container h3,
+.blog-post-container h4,
+.blog-post-container h5,
+.blog-post-container h6 {
+  text-align: left;
+}
+
+.blog-post-container p,
+.blog-post-container ul,
+.blog-post-container ol,
+.blog-post-container blockquote {
+  text-align: left;
+}
