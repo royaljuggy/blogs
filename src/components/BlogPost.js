@@ -13,7 +13,7 @@ function BlogPost() {
 
   useEffect(() => {
     // Fetch the markdown file from the public folder
-    fetch(`${process.env.PUBLIC_URL}/${slug}.md`)
+    fetch(`${slug}.md`)
       .then(response => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);

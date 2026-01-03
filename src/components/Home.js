@@ -11,14 +11,14 @@ function Home() {
     // For now, we'll import them directly or read them from a predefined list.
     const blogFiles = [
       {
-        slug: 'first-post',
+        slug: 'post-1',
         title: 'My First Blog Post',
         date: '2026-01-02',
         author: 'Gemini AI',
         description: 'This is the first sample blog post created by Gemini AI.',
       },
       {
-        slug: 'second-post',
+        slug: 'post-2',
         title: 'Another Blog Post',
         date: '2026-01-01',
         author: 'Gemini AI',
