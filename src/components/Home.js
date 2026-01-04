@@ -11,6 +11,13 @@ function Home() {
     // For now, we'll import them directly or read them from a predefined list.
     const blogFiles = [
       {
+        slug: 'saigo-ni-hitotsu-review',
+        title: 'Review: Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka',
+        date: '2026-01-04',
+        author: 'Jacob M',
+        description: 'My first Anime review. It will be continuously updated until it\'s in a state I\'m proud of. Fully human-written; my thoughts only.',
+      },
+      {
         slug: 'post-1',
         title: 'My First Blog Post',
         date: '2026-01-02',

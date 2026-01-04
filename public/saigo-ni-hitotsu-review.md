@@ -1,5 +1,5 @@
 ---
-title: May I Ask for One Final Thing? Anime Review
+title: Review: Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka
 date: 2026-01-04
 author: Jacob M
 description: My first Anime review. It will be continuously updated until it's in a state I'm proud of. Fully human-written; my thoughts only.
