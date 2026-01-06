@@ -1,12 +1,9 @@
 ---
-title: Review of Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka
+title: [REVIEW]: Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka
 date: 2026-01-04
 author: Jacob M
 description: My first Anime review. Fully human-written; my thoughts only.
 ---
-
-# Review: Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka
-
 Preface: this is my first Anime review that I'm writing to this blog- I'm hoping it becomes a sort of passion-project where I lay out my full-fledged thoughts for any experience and audience-level to enjoy.
 
 ## Criteria
