@@ -1,5 +1,5 @@
 ---
-title: [REVIEW]: Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka
+title: Review: Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka
 date: 2026-01-04
 author: Jacob M
 description: My first Anime review. Fully human-written; my thoughts only.
@@ -23,13 +23,15 @@ Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka (Saihito; "May I Ask for
 
 The first few episodes don't do a good job at introducing the setting to you. I was literally shocked to learn that there was magic and dragons in this show, since the first episode had no lead-up indicating that that was the case. But simply put, imagine a world ruled by royalty, where a couple large religions prevail. There's magic, dragons, beastkin, Gods & Goddesses; and you know I wouldn't be surprised to see a goblin king appear in the last episode. Edit: no Goblin King, but a different king of fantastical creature appears...
 
-~~So far, the story hasn't been anything particularly spectactular, but let's circle back to this part when I'm done the show. (To update!)~~
+~~So far, the story hasn't been anything particularly spectactular, but let's circle back to this part when I'm done the show. (To update!)~~\ \
 Story-wise (now that I've actually completed the series), it's been nothing spectactular nor lackluster. We have smaller adversaries that draw conflict to our heroine until a larger-than-life conflict appears to draw our main character and those around her into trouble. I don't want to spoil it too much, but I do want to add that the smaller stories in the first half of the show build up into one larger conflict that take-up the latter half. I definitely enjoyed the second half of the Anime more than the first, and I think other viewers will too. Just another example of a show that needs build-up before you can fully enjoy it.
 
 Okay... so how's the animation?  It's pretty much at the standard for Anime of this popularity level. You know, the animation for a middling isekai or random slice of life. Not stood out in particular, but at the very least nothing has been lazy. No slideshows, no weird scenes lacking animation. In-fact, I noticed an abundance of animation for minor scenes- you know, the ones where there's dialogue between four characters. Ever notice how some of the characters never blink nor change facial expression? Well if you've never noticed, that might be why some shows feel boring, bland, and quite honestly hard to watch. Funny enough, there are fights in this show. Yes. Fights that actually last minutes, and honestly, they're animated very well. Now again, they're not JJK or Demon Slayer level, but they're good. They're watchable, and more importantly, digestable.
 
 I jumped the gun a bit by speaking about the animation before the artwork, but better late than never! Artwork-wise, Saihito is quite impressive. Most notable to me is the detail in the clothing that Scarlet wears. I'm talking details down to the petals on a 2D rose. Now that's good Anime.
 ![Saihito Review](images/saihito.png)
+
+I did say I was going to speak about pacing. Because I do still want to enjoy the show a bit, I was actively thinking about pacing or other nitpicky aspects of television fully throughout watching the show, so I'm going to provide my retroactive thoughts. The pacing was good. I didn't find myself 100% immersed (I definitely spent a few minutes each episode scrolling, but that's due to my peanut brain from doomscrolling). But, I also didn't find myself bored to hell. It was... consumable, digestable once again.
 
 ## Favourite Part
 My favourite aspect has definitely been the music, and particularly the themes! When I first heard the opening theme, my mouth quite literally dropped to the floor! CHiCO with HoneyWorks had appeared for another random Anime that I'd never heard of until finding a random Instagram reel calling it "Peak." Honestly, anything created by these singers and produers is just incredible stuff. I really recommend checking out the Haikyuu and Conan openings made by them, as they're the type of music that adds to the enjoyability of a show. Additionally of course is the ending theme. Many people love to skip them, but not me. The artist here is Shiyui, more on them later. The theme itself fits very well. It sounds aristocratic, like something I'd hear in Shadows House. Honestly, the songs fits the show very well since every episode we're following nobles in a fantasy world. Additionally, this ending theme and its sounds of nobleness serve to remind us that yes, the main character is indeed royalty. She's not a robin-hood knock-off, she's a person with more power, money, education, and experience than the regular joe.
@@ -50,8 +52,8 @@ I'm sitting here writing this review and asking myself: What happened? Well, the
 ## Overall
 I've talked enough, so let's wrap up this review with a few metrics
 
-Rating: ⭐⭐⭐ out of (⭐⭐⭐⭐⭐)
-Recommend: Certain Audiences
+- Rating: ⭐⭐⭐ out of (⭐⭐⭐⭐⭐)
+- Recommend: Certain Audiences
 
 Why?
 - Definition of mid (nothing innovative nor imprresive)
