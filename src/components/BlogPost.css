@@ -16,4 +16,17 @@
 .blog-post-container ol,
 .blog-post-container blockquote {
   text-align: left;
+  margin-bottom: 1.5rem; /* Adds extra space between paragraphs */
+}
+
+.blog-post-container li {
+  margin-bottom: 0.5rem; /* Adds slight space between list items */
+}
+
+.blog-post-container img {
+  display: block;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  max-width: 100%;
+  height: auto;
 }
