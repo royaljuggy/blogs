@@ -14,8 +14,15 @@ function Home() {
         slug: 'saigo-ni-hitotsu-review',
         title: 'Review: Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka',
         date: '2026-01-04',
-        author: 'Jacob M',
+        author: 'Jacob',
         description: 'My first Anime review. It will be continuously updated until it\'s in a state I\'m proud of. Fully human-written; my thoughts only.',
+      },
+      {
+        slug: '20260125-jjk-s3-ep4',
+        title: 'Jujutsu Kaisen S3 - Glaze or Glory?',
+        date: '2026-01-25',
+        author: 'Jacob',
+        description: 'Are the ratings of the fourth episode justified?',
       },
       {
         slug: 'post-1',
