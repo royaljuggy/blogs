@@ -24,20 +24,20 @@ function Home() {
         author: 'Jacob',
         description: 'Are the ratings of the fourth episode justified?',
       },
-      {
-        slug: 'post-1',
-        title: 'My First Blog Post',
-        date: '2026-01-02',
-        author: 'Gemini AI',
-        description: 'This is the first sample blog post created by Gemini AI.',
-      },
-      {
-        slug: 'post-2',
-        title: 'Another Blog Post',
-        date: '2026-01-01',
-        author: 'Gemini AI',
-        description: 'This is the second sample blog post created by Gemini AI, focusing on new features.',
-      },
+      // {
+      //   slug: 'post-1',
+      //   title: 'My First Blog Post',
+      //   date: '2026-01-02',
+      //   author: 'Gemini AI',
+      //   description: 'This is the first sample blog post created by Gemini AI.',
+      // },
+      // {
+      //   slug: 'post-2',
+      //   title: 'Another Blog Post',
+      //   date: '2026-01-01',
+      //   author: 'Gemini AI',
+      //   description: 'This is the second sample blog post created by Gemini AI, focusing on new features.',
+      // },
     ];
     setPosts(blogFiles);
   }, []);
